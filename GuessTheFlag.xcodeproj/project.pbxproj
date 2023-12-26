@@ -45,6 +45,7 @@
 		57BABC192B3785A800952C23 /* GuessTheFlagUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = GuessTheFlagUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		57BABC1D2B3785A800952C23 /* GuessTheFlagUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GuessTheFlagUITests.swift; sourceTree = "<group>"; };
 		57BABC1F2B3785A800952C23 /* GuessTheFlagUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GuessTheFlagUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		57BABC2C2B3A714500952C23 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -75,6 +76,7 @@
 		57BABBF52B3785A700952C23 = {
 			isa = PBXGroup;
 			children = (
+				57BABC2C2B3A714500952C23 /* README.md */,
 				57BABC002B3785A700952C23 /* GuessTheFlag */,
 				57BABC122B3785A800952C23 /* GuessTheFlagTests */,
 				57BABC1C2B3785A800952C23 /* GuessTheFlagUITests */,
